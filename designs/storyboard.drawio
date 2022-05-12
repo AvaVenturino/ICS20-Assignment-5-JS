@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="logq3ev1CXwO9uuO-ka1" name="Page-1">
+        <mxGraphModel dx="1074" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="80" width="720" height="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Calculating PI using loops" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="80" width="720" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;h6 style=&quot;padding: 0px ; margin: 24px 0px 16px ; letter-spacing: 0.04em ; font-weight: 400 ; line-height: 24px ; color: rgba(0 , 0 , 0 , 0.87)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;The computer will then calculate the value of PI using the below formula.&lt;/font&gt;&lt;/h6&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="190" width="430" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.87) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; letter-spacing: 0.64px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Formula: π = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11...&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="250" width="300" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Enter positive number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="pull down number menu" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="290" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="The answer is: _____" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="350" width="130" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
