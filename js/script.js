@@ -30,7 +30,7 @@ function myButtonClicked() {
       positiveOrNegative = "plus";
     } else if (positiveOrNegative == "plus") {
       num = num + 2;
-      pi = pi + 4 / num
+      pi = pi + 4 / num;
       positiveOrNegative = "minus";
     }
     numChosen = numChosen - 1;
